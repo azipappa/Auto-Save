@@ -1,0 +1,15 @@
+{
+  "name": "com.azipaworks.auto-save",
+  "displayName": "Auto Save",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Automatically saves the active Unity scene after editing stops.",
+  "author": {
+    "name": "Azipa Works",
+    "email": "306074014+azipappa@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "legacyFolders": {
+    "Assets/Azipa Works/tools/AutoSave": "acc7729c6462bf24f86e145d4b94c413"
+  }
+}
