@@ -20,7 +20,7 @@ namespace AzipaWorks.AutoSave
             var window = GetWindow<AutoSaveWindow>();
             window.titleContent = new GUIContent("Auto Save");
             window.minSize = new Vector2(330f, 205f);
-            window.maxSize = new Vector2(430f, 300f);
+            window.maxSize = new Vector2(430f, 600f);
             window.Show();
         }
 
@@ -94,7 +94,7 @@ namespace AzipaWorks.AutoSave
                 {
                     alignment = TextAnchor.MiddleRight
                 };
-                EditorGUILayout.LabelField("Auto Save  v1.0.0", footerStyle,
+                EditorGUILayout.LabelField("Auto Save  v1.0.1", footerStyle,
                     GUILayout.ExpandWidth(true), GUILayout.Height(14f));
             }
         }

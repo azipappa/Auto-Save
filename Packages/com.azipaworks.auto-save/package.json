@@ -1,7 +1,7 @@
 {
   "name": "com.azipaworks.auto-save",
   "displayName": "Auto Save",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2022.3",
   "description": "Automatically saves the active Unity scene after editing stops.",
   "author": {
